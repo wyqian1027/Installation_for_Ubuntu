@@ -12,3 +12,5 @@ sudo apt install texlive texlive-latex-extra texlive-fonts-recommended dvipng
 ```
 
 ### Matplotlib
+
+* General setups: [matplotlib_common.py](https://github.com/wyqian1027/Python_Plots/blob/main/matplotlib_common.py)
