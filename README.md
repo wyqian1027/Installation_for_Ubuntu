@@ -14,4 +14,4 @@ sudo apt install texlive texlive-latex-extra texlive-fonts-recommended dvipng
 ### Matplotlib
 
 * General setups: [matplotlib_common.py](https://github.com/wyqian1027/Python_Plots/blob/main/matplotlib_common.py)
-* Plotting list of (xs, ys, yerrs): [example](https://github.com/wyqian1027/Python_Plots/blob/main/example_plot_1.ipynb)
+* Plotting list_of_mean_dict, list_of_std_dict, list_of_legends: [example](https://github.com/wyqian1027/Python_Plots/blob/main/example_plot_1.ipynb)
